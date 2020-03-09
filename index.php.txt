@@ -1,10 +1,11 @@
 <html>
 <head>
 	<title>TortoiseGit Tutorial 7: Create, switch or delete branch using tortoiseGit by 
-Learn4Tarakki</title>
+Learn4Tarakki | Home</title>
 </head>
 <body>
 
 	<h4>Learn bit tortoise video by Learn4Tarakki</h4>
+	<script type="slider.js"></script>
 </body>
 </html>
