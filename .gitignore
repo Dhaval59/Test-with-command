@@ -2,3 +2,6 @@
 
 
 index1.php.txt
+
+log/*
+!.gitignore
